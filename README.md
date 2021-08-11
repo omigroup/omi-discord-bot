@@ -8,7 +8,7 @@ OMI-Chan is a Discord bot created by Cause and meant to assist with the internal
 - Discord.py 1.7+
 
 ### Bot Installation
-During its development the bot will remain in private invite mode as it is meant for only the one server, however it should be noted that I am writing it in a way which will allow it to eventually be invited to multiple servers to help spread the awesome awareness and functionality we plan to implement along the way!
+During its development the bot will remain in private invite mode as it is meant for only the one server at first, however it should be noted that I am writing it in a way which will allow it to eventually be invited to multiple servers to help spread the awesome awareness and functionality we plan to implement along the way!
 
 ### Initial Features in Development:
 - Member Registration
