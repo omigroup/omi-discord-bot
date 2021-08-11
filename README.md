@@ -1,6 +1,6 @@
 # OMI Chan (Discord Bot)
 
-OMI-Chan is a Discord bot created by Cause and meant to assist with the internal functionality of The OMI Group when convening on Discord.
+OMI-Chan is a Discord bot created by Cause and meant to assist with the internal functionality of The OMI Group when convening on Discord. After initial foundational development is finished to establish a solid work flow, the code will be uploaded here and this project will be opened up for community collaboration!
 
 ### Operation Requirements
 - Python 3.8+
