@@ -20,6 +20,7 @@ During its development the bot will remain in private invite mode as it is meant
 - Repetative Info Shortcut Tags
 
 ### Future Functionality:
+- Slash Commands
 - Github Discussions
 - Principle Suggestions
 - Swag / Badge System
